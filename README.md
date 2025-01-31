@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **frontend development,react**
 
-- 📫 How to reach me **abhishek.pandeya1238@gmail.com**
+- 📫 How to reach me **badalkumar200227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
